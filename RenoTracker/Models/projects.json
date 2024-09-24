@@ -1,0 +1,384 @@
+[
+    {
+        "projectNumber" : 2021001,
+        "renovationArea" : "Front Lobby",
+        "imageName": "front-lobby",
+        "dueDate" : "2021-08-01",
+        "lastProgressUpdate" : "2021-05-28",
+        "workQuality" : "Good",
+        "isFlagged": false,
+        "punchList" : [
+            {
+                "task" : "Remodel front desk",
+                "status" : "Complete"
+            },
+            {
+                "task" : "Retile entry",
+                "status" : "Complete"
+            },
+            {
+                "task" : "Replace light fixtures",
+                "status" : "Complete"
+            },
+            {
+                "task" : "Paint walls",
+                "status" : "In Progress"
+            },
+            {
+                "task" : "Hang new artwork",
+                "status" : "Not Started"
+            }
+        ],
+        "budgetAmountAllocated" : 25000,
+        "budgetSpentToDate" : 18350,
+        "inspectionLog" : [
+            {
+                "entryDate" : "2021-05-06",
+                "details" : "Front desk needs another coat of stain."
+            },
+            {
+                "entryDate" : "2021-05-07",
+                "details" : "Tile work is excellent."
+            },
+            {
+                "entryDate" : "2021-05-16",
+                "details" : "Second coat of stain is sufficient."
+            }
+        ]
+    },
+    {
+        "projectNumber" : 2021002,
+        "renovationArea" : "Main Entrance",
+        "imageName": "main-entrance",
+        "dueDate" : "2021-05-30",
+        "lastProgressUpdate" : null,
+        "workQuality" : "N/A",
+        "isFlagged": true,
+        "punchList" : [
+            {
+                "task" : "Replace front door",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Install security cameras",
+                "status" : "Not Started"
+            }
+        ],
+        "budgetAmountAllocated" : 10000,
+        "budgetSpentToDate" : 0,
+        "inspectionLog" : []
+    },
+    {
+        "projectNumber" : 2021003,
+        "imageName": "first-floor-hallway",
+        "renovationArea" : "1st Floor Hallway",
+        "dueDate" : "2021-07-31",
+        "lastProgressUpdate" : "2021-05-26",
+        "workQuality" : "Poor",
+        "isFlagged": false,
+        "punchList" : [
+            {
+                "task" : "Install new carpet",
+                "status" : "Complete"
+            },
+            {
+                "task" : "Replace light fixtures",
+                "status" : "In Progress"
+            },
+            {
+                "task" : "Paint walls",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Hang new artwork",
+                "status" : "Not Started"
+            }
+        ],
+        "budgetAmountAllocated" : 15000,
+        "budgetSpentToDate" : 2350,
+        "inspectionLog" : []
+    },
+    {
+        "projectNumber" : 2021004,
+        "renovationArea" : "2nd Floor Hallway",
+        "imageName": "second-floor-hallway",
+        "dueDate" : "2021-07-31",
+        "lastProgressUpdate" : null,
+        "workQuality" : "N/A",
+        "isFlagged": true,
+        "punchList" : [
+            {
+                "task" : "Install new carpet",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Replace light fixtures",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Paint walls",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Hang new artwork",
+                "status" : "Not Started"
+            }
+        ],
+        "budgetAmountAllocated" : 15000,
+        "budgetSpentToDate" : 0,
+        "isFlagged": false,
+        "inspectionLog" : []
+    },
+    {
+        "projectNumber" : 2021005,
+        "renovationArea" : "1st Floor Guest Rooms",
+        "imageName": "first-floor-guest-rooms",
+        "dueDate" : "2021-11-01",
+        "lastProgressUpdate" : "2021-06-07",
+        "workQuality" : "Good",
+        "isFlagged": false,
+        "punchList" : [
+            {
+                "task" : "Remove wallpaper",
+                "status" : "Complete"
+            },
+            {
+                "task" : "Replace toilets",
+                "status" : "Complete"
+            },
+            {
+                "task" : "Retile bathrooms",
+                "status" : "In Progress"
+            },
+            {
+                "task" : "Install new light fixtures",
+                "status" : "In Progress"
+            },
+            {
+                "task" : "Replace carpet",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Replace furniture",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Hang new artwork",
+                "status" : "Not Started"
+            }
+        ],
+        "budgetAmountAllocated" : 20000,
+        "budgetSpentToDate" : 25130,
+        "isFlagged": false,
+        "inspectionLog" : [
+            {
+                "entryDate" : "2021-06-01",
+                "details" : "Guest rooms still have wallpaper on walls."
+            },
+            {
+                "entryDate" : "2021-06-06",
+                "details" : "Toilet in guest room 105 does not flush."
+            },
+            {
+                "entryDate" : "2021-06-07",
+                "details" : "Toilet in guest room 105 flushes now."
+            }
+        ]
+    },
+    {
+        "projectNumber" : 2021006,
+        "renovationArea" : "2nd Floor Guest Rooms",
+        "imageName": "second-floor-guest-rooms",
+        "dueDate" : "2021-11-01",
+        "lastProgressUpdate" : null,
+        "workQuality" : "N/A",
+        "isFlagged": true,
+        "punchList" : [
+            {
+                "task" : "Remove wallpaper",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Replace toilets",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Retile bathrooms",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Install new light fixtures",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Replace carpet",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Replace furniture",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Hang new artwork",
+                "status" : "Not Started"
+            }
+        ],
+        "budgetAmountAllocated" : 20000,
+        "budgetSpentToDate" : 0,
+        "inspectionLog" : []
+    },
+    {
+        "projectNumber" : 2021007,
+        "renovationArea" : "Restaurant",
+        "imageName": "restaurant",
+        "dueDate" : "2021-08-30",
+        "lastProgressUpdate" : "2021-06-15",
+        "workQuality" : "Good",
+        "isFlagged": false,
+        "punchList" : [
+            {
+                "task" : "Remove old carpet",
+                "status" : "Complete"
+            },
+            {
+                "task" : "Install tile",
+                "status" : "Complete"
+            },
+            {
+                "task" : "Replace light fixtures",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Paint walls",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Hang new artwork",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Replace furniture",
+                "status" : "Not Started"
+            }
+        ],
+        "budgetAmountAllocated" : 10500,
+        "budgetSpentToDate" : 2100,
+        "inspectionLog" : [
+            {
+                "entryDate" : "2021-06-02",
+                "details" : "Paint was spilled on the dining room carpet after installation."
+            },
+            {
+                "entryDate" : "2021-06-04",
+                "details" : "Paint-stained section was replaced."
+            }
+        ]
+    },
+    {
+        "projectNumber" : 2021008,
+        "renovationArea" : "Lounge",
+        "imageName": "lounge",
+        "dueDate" : "2021-08-15",
+        "lastProgressUpdate" : "2021-06-03",
+        "workQuality" : "Poor",
+        "isFlagged": false,
+        "punchList" : [
+            {
+                "task" : "Remodel fireplace",
+                "status" : "In Progress"
+            },
+            {
+                "task" : "Install new flooring",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Replace light fixtures",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Paint walls",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Hang new artwork",
+                "status" : "Not Started"
+            }
+        ],
+        "budgetAmountAllocated" : 5000,
+        "budgetSpentToDate" : 1246,
+        "inspectionLog" : []
+    },
+    {
+        "projectNumber" : 2021009,
+        "renovationArea" : "Ski Lift 1",
+        "imageName": "ski-lift-1",
+        "dueDate" : "2021-11-15",
+        "lastProgressUpdate" : "2021-05-11",
+        "workQuality" : "Excellent",
+        "isFlagged": false,
+        "punchList" : [
+            {
+                "task" : "Repair lift motor",
+                "status" : "Complete"
+            },
+            {
+                "task" : "Install new cables",
+                "status" : "In Progress"
+            },
+            {
+                "task" : "Paint lift towers",
+                "status" : "In Progress"
+            },
+            {
+                "task" : "Install new chairs",
+                "status" : "Not Started"
+            }
+        ],
+        "budgetAmountAllocated" : 24500,
+        "budgetSpentToDate" : 21600,
+        "inspectionLog" : [
+            {
+                "entryDate" : "2021-04-01",
+                "details" : "Ordered new parts for lift motor"
+            },
+            {
+                "entryDate" : "2021-05-06",
+                "details" : "Finished repairing lift motor"
+            },
+            {
+                "entryDate" : "2021-05-11",
+                "details" : "Ordered new cables; started painting lift towers"
+            }
+        ]
+    },
+    {
+        "projectNumber" : 2021010,
+        "renovationArea" : "Ski Lift 2",
+        "imageName": "ski-lift-2",
+        "dueDate" : "2021-11-15",
+        "lastProgressUpdate" : null,
+        "workQuality" : "N/A",
+        "isFlagged": true,
+        "punchList" : [
+            {
+                "task" : "Repair lift motor",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Install new cables",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Paint lift towers",
+                "status" : "Not Started"
+            },
+            {
+                "task" : "Install new chairs",
+                "status" : "Not Started"
+            }
+        ],
+        "budgetAmountAllocated" : 24500,
+        "budgetSpentToDate" : 0,
+        "inspectionLog" : []
+    }
+]
